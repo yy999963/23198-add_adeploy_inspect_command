@@ -1,0 +1,8 @@
+{
+    "label": "cluster-sn",
+    "position": 1,
+    "link": {
+        "type": "generated-index",
+        "description": "cluster-sn 相关文档"
+    }
+}

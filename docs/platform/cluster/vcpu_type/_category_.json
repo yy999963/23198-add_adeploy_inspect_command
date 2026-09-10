@@ -1,0 +1,8 @@
+{
+    "label": "vcpu_type",
+    "position": 1,
+    "link": {
+        "type": "generated-index",
+        "description": "vcpu_type 相关文档"
+    }
+}
